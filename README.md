@@ -25,5 +25,5 @@ Le projet contient les principaux fichiers suivants :
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone git@github.com:MarieRobertson/puissance-4-robertson-marie.git
+   git clone git@github.com:MarieRobertson/puissance4.git
    lancer le jeu avec la fonction "Go Live" de votre éditeur de code.
